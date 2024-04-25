@@ -5,4 +5,5 @@ int main(){
     printf("El valor de a es: %d\n", a);
     printf("La direccion de memoria de a es: %p", &a);
     printf("\n");
+    return 0;
 }
